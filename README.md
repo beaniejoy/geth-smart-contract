@@ -1,2 +1,4 @@
 # geth-smart-contract
-test developing Ethereum Smart Contract (geth, Java)
+
+develop web service based on Ethereum smart contract  
+geth platform, java(jsp)
